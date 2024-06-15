@@ -1,0 +1,24 @@
+C:\Users\danie\source\repos\ClinicHistoryPro\ClinicHistoryPro.Domain\bin\Debug\net6.0\ClinicHistoryPro.Domain.deps.json
+C:\Users\danie\source\repos\ClinicHistoryPro\ClinicHistoryPro.Domain\bin\Debug\net6.0\ClinicHistoryPro.Domain.dll
+C:\Users\danie\source\repos\ClinicHistoryPro\ClinicHistoryPro.Domain\bin\Debug\net6.0\ClinicHistoryPro.Domain.pdb
+C:\Users\danie\source\repos\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\ClinicHistoryPro.Domain.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\ClinicHistoryPro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\ClinicHistoryPro.Domain.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\ClinicHistoryPro.Domain.AssemblyInfo.cs
+C:\Users\danie\source\repos\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\ClinicHistoryPro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\ClinicHistoryPro.Domain.dll
+C:\Users\danie\source\repos\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\refint\ClinicHistoryPro.Domain.dll
+C:\Users\danie\source\repos\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\ClinicHistoryPro.Domain.pdb
+C:\Users\danie\source\repos\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\ref\ClinicHistoryPro.Domain.dll
+C:\Users\danie\source\repos\Gotei IT\ClinicHistoryPro\ClinicHistoryPro.Domain\bin\Debug\net6.0\ClinicHistoryPro.Domain.deps.json
+C:\Users\danie\source\repos\Gotei IT\ClinicHistoryPro\ClinicHistoryPro.Domain\bin\Debug\net6.0\ClinicHistoryPro.Domain.dll
+C:\Users\danie\source\repos\Gotei IT\ClinicHistoryPro\ClinicHistoryPro.Domain\bin\Debug\net6.0\ClinicHistoryPro.Domain.pdb
+C:\Users\danie\source\repos\Gotei IT\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\ClinicHistoryPro.Domain.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Gotei IT\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\ClinicHistoryPro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Gotei IT\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\ClinicHistoryPro.Domain.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Gotei IT\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\ClinicHistoryPro.Domain.AssemblyInfo.cs
+C:\Users\danie\source\repos\Gotei IT\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\ClinicHistoryPro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Gotei IT\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\ClinicHistoryPro.Domain.dll
+C:\Users\danie\source\repos\Gotei IT\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\refint\ClinicHistoryPro.Domain.dll
+C:\Users\danie\source\repos\Gotei IT\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\ClinicHistoryPro.Domain.pdb
+C:\Users\danie\source\repos\Gotei IT\ClinicHistoryPro\ClinicHistoryPro.Domain\obj\Debug\net6.0\ref\ClinicHistoryPro.Domain.dll

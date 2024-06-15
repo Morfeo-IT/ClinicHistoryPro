@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\PayrollPro\PayrollPro.Domain\bin\Debug\net6.0\PayrollPro.Domain.deps.json
+C:\Users\danie\source\repos\PayrollPro\PayrollPro.Domain\bin\Debug\net6.0\PayrollPro.Domain.dll
+C:\Users\danie\source\repos\PayrollPro\PayrollPro.Domain\bin\Debug\net6.0\PayrollPro.Domain.pdb
+C:\Users\danie\source\repos\PayrollPro\PayrollPro.Domain\obj\Debug\net6.0\PayrollPro.Domain.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\PayrollPro\PayrollPro.Domain\obj\Debug\net6.0\PayrollPro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\PayrollPro\PayrollPro.Domain\obj\Debug\net6.0\PayrollPro.Domain.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\PayrollPro\PayrollPro.Domain\obj\Debug\net6.0\PayrollPro.Domain.AssemblyInfo.cs
+C:\Users\danie\source\repos\PayrollPro\PayrollPro.Domain\obj\Debug\net6.0\PayrollPro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PayrollPro\PayrollPro.Domain\obj\Debug\net6.0\PayrollPro.Domain.dll
+C:\Users\danie\source\repos\PayrollPro\PayrollPro.Domain\obj\Debug\net6.0\refint\PayrollPro.Domain.dll
+C:\Users\danie\source\repos\PayrollPro\PayrollPro.Domain\obj\Debug\net6.0\PayrollPro.Domain.pdb
+C:\Users\danie\source\repos\PayrollPro\PayrollPro.Domain\obj\Debug\net6.0\ref\PayrollPro.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\bin\Debug\net6.0\PayrollPro.Infraestructure.deps.json
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\bin\Debug\net6.0\PayrollPro.Infraestructure.runtimeconfig.json
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\bin\Debug\net6.0\PayrollPro.Infraestructure.dll
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\bin\Debug\net6.0\PayrollPro.Infraestructure.pdb
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\bin\Debug\net6.0\PayrollPro.Domain.dll
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\bin\Debug\net6.0\PayrollPro.Domain.pdb
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\PayrollPro.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\PayrollPro.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\PayrollPro.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\PayrollPro.Infraestructure.AssemblyInfo.cs
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\PayrollPro.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\PayrollPro.Infraestructure.csproj.CopyComplete
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\PayrollPro.Infraestructure.dll
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\refint\PayrollPro.Infraestructure.dll
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\PayrollPro.Infraestructure.pdb
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\PayrollPro.Infraestructure.genruntimeconfig.cache
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\ref\PayrollPro.Infraestructure.dll

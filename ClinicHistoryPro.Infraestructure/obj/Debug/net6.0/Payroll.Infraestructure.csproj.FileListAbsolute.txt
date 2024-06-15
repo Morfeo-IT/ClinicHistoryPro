@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\bin\Debug\net6.0\Payroll.Infraestructure.deps.json
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\bin\Debug\net6.0\Payroll.Infraestructure.runtimeconfig.json
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\bin\Debug\net6.0\Payroll.Infraestructure.dll
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\bin\Debug\net6.0\Payroll.Infraestructure.pdb
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\Payroll.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\Payroll.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\Payroll.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\Payroll.Infraestructure.AssemblyInfo.cs
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\Payroll.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\Payroll.Infraestructure.dll
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\refint\Payroll.Infraestructure.dll
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\Payroll.Infraestructure.pdb
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\Payroll.Infraestructure.genruntimeconfig.cache
+C:\Users\danie\source\repos\PayrollPro\Payroll.Infraestructure\obj\Debug\net6.0\ref\Payroll.Infraestructure.dll
