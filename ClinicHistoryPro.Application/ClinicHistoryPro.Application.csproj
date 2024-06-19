@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Strategies\Strategy\" />
+    <Folder Include="Enums\" />
   </ItemGroup>
 
 </Project>
